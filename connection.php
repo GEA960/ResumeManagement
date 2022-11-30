@@ -1,7 +1,9 @@
 <?php
 
   // database connection
-  $connection = mysqli_connect("localhost","root","","egm_application");
+  $connection = mysqli_connect("ftp.geaa.tech","u180008257_
+  CCompanion","CCompanion1PASS","u180008257_
+  CCompanion");
 
   if(!$connection){
     die("Connection failed: ".mysql_connect_error());

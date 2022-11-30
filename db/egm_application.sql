@@ -1,6 +1,5 @@
-CREATE DATABASE egm_application;
 
-USE egm_application;
+
 
 CREATE TABLE `tbl_admin` (
   `admin_id` int(11) NOT NULL AUTO_INCREMENT,
